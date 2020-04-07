@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TnTRun:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TnTRun_jar</output-path>
+    <root id="archive" name="TnTRun.jar">
+      <element id="module-output" name="TnTRun" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/lombok.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/resources/config.json" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>

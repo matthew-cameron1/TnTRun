@@ -1,0 +1,7 @@
+name: TnTRun
+main: ca.innov8solutions.tntrun.TnTRun
+version: "1.0"
+load: POSTWORLD
+commands:
+  game:
+    description: "Game command"
